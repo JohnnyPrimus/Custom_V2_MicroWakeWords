@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "computer",
   "author": "Leland Olney",
-  "website": "https://github.com/JohnnyPrimus/Custom_V2_MicroWakeWords",
+  "website": "https://github.com/JohnnyPrimus/Custom_V2_MicroWakeWords/blob/0a7aae8aff5024b92b4767850d4eee97ecf3b4d1/models/computer/computer.json",
   "model": "computer.tflite",
   "trained_languages": ["en"],
   "version": 2,
