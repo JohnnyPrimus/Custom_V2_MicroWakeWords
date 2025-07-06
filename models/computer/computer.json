@@ -1,16 +1,18 @@
 {
   "type": "micro",
-  "wake_word": "computer",
-  "author": "Leland Olney",
-  "website": "https://github.com/JohnnyPrimus/Custom_V2_MicroWakeWords",
-  "model": "computer.tflite",
-  "trained_languages": ["en"],
+  "wake_word": "khum_puter",
+  "author": "master phooey",
+  "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
+  "model": "stream_state_internal_quant.tflite",
+  "trained_languages": [
+    "en"
+  ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.66,
-    "sliding_window_size": 10,
+    "probability_cutoff": 0.97,
+    "sliding_window_size": 5,
     "feature_step_size": 10,
-    "tensor_arena_size": 22860,
+    "tensor_arena_size": 30000,
     "minimum_esphome_version": "2024.7.0"
   }
 }
