@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "khum_puter",
   "author": "amac16",
-  "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
+  "website": "https://github.com/amac16/Custom_V2_MicroWakeWords/",
   "model": "computer.tflite",
   "trained_languages": [
     "en"
