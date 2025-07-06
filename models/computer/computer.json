@@ -1,9 +1,9 @@
 {
   "type": "micro",
   "wake_word": "khum_puter",
-  "author": "master phooey",
+  "author": "amac16",
   "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
-  "model": "stream_state_internal_quant.tflite",
+  "model": "computer.tflite",
   "trained_languages": [
     "en"
   ],
