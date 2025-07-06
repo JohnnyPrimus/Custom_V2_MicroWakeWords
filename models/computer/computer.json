@@ -2,8 +2,8 @@
   "type": "micro",
   "wake_word": "computer",
   "author": "Leland Olney",
-  "website": "https://github.com/amac16/Custom_V2_MicroWakeWords/tree/new-computer/models/computer/computer.json",
-  "model": "https://github.com/amac16/Custom_V2_MicroWakeWords/tree/new-computer/models/computer/computer.tflite",
+  "website": "https://github.com/amac16/Custom_V2_MicroWakeWords",
+  "model": "computer.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
