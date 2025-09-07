@@ -4,12 +4,15 @@
   "author": "NathanCu@community.home-assistant.io",
   "website": "https://github.com/JohnnyPrimus/Custom_V2_MicroWakeWords",
   "model": "hey_friday.tflite",
+  "trained_languages": [
+    "en"
+  ],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.66,
-    "sliding_window_average_size": 10,
+    "sliding_window_size": 10,
     "feature_step_size": 10,
-    "tensor_arena_size": 22860,
-    "minimum_esphome_version": "2024.7"
+    "tensor_arena_size": 25544,
+    "minimum_esphome_version": "2024.7.0"
   }
 }
